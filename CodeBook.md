@@ -2,6 +2,7 @@
 ### Keys
 * subject - subject code
 * activity - activity name
+
 ### Mean values of measurements
 * tBodyAccmeanX
 * tBodyAccmeanY
